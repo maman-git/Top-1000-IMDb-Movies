@@ -56,4 +56,4 @@ Deployed modern BI design principles to ensure:
 - Visualization Storyboarding
 
 
-Contact, If you’d like to collaborate on BI, analytics, or data-driven strategy, feel free to connect.
+Contact, If you’d like to collaborate on BI, analytics, or data-driven strategy, feel free to connect. 
